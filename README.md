@@ -1,2 +1,2 @@
-# File_Renamer_batch
- It removes a specific letters from a file or batch of files
+# file_rename_batch
+This is project is about to rename files at bulk in a Directory files
